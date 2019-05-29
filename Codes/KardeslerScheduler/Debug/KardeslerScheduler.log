@@ -1,0 +1,16 @@
+﻿  Scheduler.cpp
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Course.hpp(62): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Course.hpp(66): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\compulsoryCourse.hpp(38): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(63): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(69): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(131): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(149): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(198): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(215): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(262): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(289): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(319): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(507): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Muratcan\Desktop\KardeslerScheduler\KardeslerScheduler\Scheduler.cpp(538): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  KardeslerScheduler.vcxproj -> C:\Users\Muratcan\Desktop\KardeslerScheduler\Debug\KardeslerScheduler.exe

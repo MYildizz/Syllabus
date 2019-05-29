@@ -1,0 +1,42 @@
+**************************************
+*              SYLLABUS              *
+**************************************
+Monday    Morning   BigClass1  CENG104
+Monday    Morning   BigClass2  CENG302
+Monday    Morning   SmallClass CENG415
+Monday    Afternoon BigClass1  MATH102
+Monday    Afternoon BigClass2  ENGR202
+Monday    Afternoon SmallClass ENGR404
+
+Thuesday  Morning   BigClass1  CHEM101
+Thuesday  Morning   BigClass2  CENG206
+Thuesday  Morning   SmallClass CENG404
+Thuesday  Afternoon BigClass1  ENG102
+Thuesday  Afternoon BigClass2  CENG304
+Thuesday  Afternoon SmallClass ENGR254
+
+Wednesday Morning   BigClass1  TIT101
+Wednesday Morning   BigClass2  CENG306
+Wednesday Morning   SmallClass CENG427
+Wednesday Afternoon BigClass1  TDL102
+Wednesday Afternoon BigClass2  ENGR402
+Wednesday Afternoon SmallClass CENG451
+
+Thursday  Morning   BigClass1  CENG202
+Thursday  Morning   BigClass2  CENG310
+Thursday  Morning   SmallClass CENG466
+Thursday  Afternoon BigClass1  MATH106
+Thursday  Afternoon BigClass2  CENG316
+Thursday  Afternoon SmallClass CENG470
+
+Friday    Morning   BigClass1  PHYS102
+Friday    Morning   BigClass2  CENG317
+Friday    Morning   SmallClass ENGR256
+Friday    Afternoon BigClass1  CENG204
+Friday    Afternoon BigClass2  CENG318
+Friday    Afternoon SmallClass CENG472
+
+**************************************
+
+No class found for CENG474 course
+*********************************
